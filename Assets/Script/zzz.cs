@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class zzz : MonoBehaviour
 {
+    public int hp;
+    public int cur_hp;
+    
     // Start is called before the first frame update
     void Start()
     {
